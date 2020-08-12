@@ -21,4 +21,12 @@ SO THAT my account balance is accurate when I am traveling
 
 ## Heroku app
 
-[Deployed](https://github.com/user/repo/blob/branch/other_file.md)
+[Deployed](https://git.heroku.com/budget-progressive123.git)
+
+## screenshot
+
+Off-line 
+![Offline](./public/img/offlineVersion.png)
+
+On-line
+![Online](./public/img/onLine.png)
